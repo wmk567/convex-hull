@@ -63,4 +63,7 @@ Instalasi juga dapat dilakukan menggunakan Anaconda prompt dengan perintah berik
 Pastikan versi Python yang digunakan Anaconda ada dalam system variable komputer. Penggunaan versi yang salah dapat menyebabkan masalah ketika menjalankan program.
 
 ## Catatan Tambahan : Menjalankan Program di Visual Studio Code
-File convexhull.ipynb juga dapat dijalankan pada VSCode dengan membuka file tersebut langsung di VSCode. Setelah itu, pilih interpreter yang benar dengan menekan tombol Ctrl + Shift + P dan memilih versi python yang digunakan Anaconda. Setelah interpreter dipilih, klik tombol run yang biasa berada di sebelah kiri awal sel yang memuat program.
+File convexhull.ipynb juga dapat dijalankan langsung pada VSCode dengan tahap berikut :
+1. Buka file convexhull.ipynb pada VSCode.
+2. Pilih interpreter yang benar dengan menekan tombol (Ctrl + Shift + P) dan memilih versi python yang digunakan Anaconda. 
+3. Klik tombol run yang biasa berada di sebelah kiri awal sel yang memuat program.
