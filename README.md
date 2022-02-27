@@ -18,13 +18,13 @@ Program ini menggambarkan convex hull dari sebuah dataset berisi koordinat titik
 ## Cara Menjalankan Program
 ### 1. Buka Folder Program Pada Jupyter Notebook
 
-Gunakan Command Prompt atau Windows Powershell dan pergi ke lokasi folder **(convex-hull)** disimpan lalu ketik perintah berikut :
+Gunakan Command Prompt atau Windows Powershell dan pergi ke lokasi folder repository disimpan lalu ketik perintah berikut :
   
   ```bash
   jupyter notebook
   ```
   
-Komputer akan membuka jupyter notebook berisi file dan folder yang berada dalam folder **(convex-hull)**.
+Komputer akan membuka jupyter notebook berisi file dan folder yang berada dalam folder repository.
 
 ### 2. Jalankan File convexhull.ipynb
 
@@ -61,3 +61,6 @@ Instalasi juga dapat dilakukan menggunakan Anaconda prompt dengan perintah berik
   
 ### Catatan Tambahan : Mengecek Versi Python Yang Digunakan
 Pastikan versi Python yang digunakan Anaconda ada dalam system variable komputer. Penggunaan versi yang salah dapat menyebabkan masalah ketika menjalankan program.
+
+## Catatan Tambahan : Menjalankan Program di Visual Studio Code
+File convexhull.ipynb juga dapat dijalankan pada VSCode dengan membuka file tersebut langsung di VSCode. Setelah itu, pilih interpreter yang benar dengan menekan tombol Ctrl + Shift + P dan memilih versi python yang digunakan Anaconda. Setelah interpreter dipilih, klik tombol run yang biasa berada di sebelah kiri awal sel yang memuat program.
